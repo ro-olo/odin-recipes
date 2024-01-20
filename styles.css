@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(221, 186, 110);
+    font-family: Arial;
+}
+h1 {
+    color: rgb(252, 241, 228)
+}
+div{
+    background-color: rgba(251, 220, 185, 0.5);
+}
